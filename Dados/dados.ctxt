@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=dados
+comment1.params=
+comment1.target=dados()
+comment2.params=
+comment2.target=void\ cambiaturno()
+comment3.params=
+comment3.target=void\ tirar_dados()
+comment4.params=
+comment4.target=void\ comprobar_puntos()
+numComments=5
